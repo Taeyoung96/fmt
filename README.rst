@@ -37,6 +37,12 @@ Q&A: ask questions on `StackOverflow with the tag fmt
 
 Try {fmt} in `Compiler Explorer <https://godbolt.org/z/Eq5763>`_.
 
+Update
+-------
+- Fixed Shared library linkage error
+- Ref : https://github.com/fmtlib/fmt/issues/548
+          
+
 Features
 --------
 
